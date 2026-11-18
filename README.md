@@ -1,6 +1,6 @@
 <h1 align="center" style="padding-bottom: 10px;">
   <div>
-    <span style="color: #3178C6;">Hello, I'm ChronicStone</span>
+    <span style="color: #3178C6;">Hello, I'm Cyprien</span>
   </div>
   <div>
     <span style="font-size: 0.8em; color: #4FC08D;">Full-stack engineer, type-safety addict</span>
