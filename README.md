@@ -3,7 +3,7 @@
     <span style="color: #3178C6;">Hello, I'm ChronicStone</span>
   </div>
   <div>
-    <span style="font-size: 0.8em; color: #4FC08D;">Fullstack engineer, vue fanboy, type-safety addict</span>
+    <span style="font-size: 0.8em; color: #4FC08D;">Full-stack engineer, type-safety addict</span>
   </div>
   <br />
 </h1>
@@ -20,8 +20,6 @@
 
 - 💼 Full-Stack TypeScript Engineer
 
-- 🖖 Vue.js and Nuxt.js fanboy, building scalable and performant web applications
-
 - 🛠️ Creator of type-safe libraries focused on developer experience
 
 - 🔒 Obsessed with type safety and writing clean, maintainable code
@@ -36,7 +34,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,vite,postgresql,nestjs,adonis,mongodb,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,bun,vue,nuxtjs,react,vite,tailwind,nestjs,adonis,postgres,redis,mongodb,elasticsearch,rabbitmq,aws,docker,githubactions,grafana,tauri,electron,python&perline=12)](https://skillicons.dev)
 
 
 #### Top Repositories
@@ -44,7 +42,7 @@
 <a href="https://github.com/ChronicStone/typed-xlsx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=typed-xlsx&theme=buefy" />
 </a>
-<a href="https://github.com/ChronicStone/array-ql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=array-ql&theme=buefy" />
+<a href="https://github.com/ChronicStone/drizzle-resource">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=drizzle-resource&theme=buefy" />
 </a>
 
