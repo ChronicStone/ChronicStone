@@ -43,6 +43,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=typed-xlsx&theme=buefy" />
 </a>
 <a href="https://github.com/ChronicStone/drizzle-resource">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=drizzle-resource&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=drizzle-resource&theme=buefy&cache_seconds=21600" />
 </a>
 
