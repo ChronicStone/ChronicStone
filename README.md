@@ -1,50 +1,53 @@
-<h1 align="center" style="padding-bottom: 10px;">
-  <div>
-    <span style="color: #3178C6;">Hello, I'm ChronicStone</span>
-  </div>
-  <div>
-    <span style="font-size: 0.8em; color: #4FC08D;">Fullstack engineer, vue fanboy, type-safety addict</span>
-  </div>
-  <br />
-</h1>
+# Cyprien Thao
 
-<br />
+**Product engineer, full-stack TypeScript.** I like owning a problem end to end: working out what users need, designing the screen, shaping the data, wiring the integrations behind it, and running it in production.
 
-<p align="center">
-  <span style="font-style: italic; color: #666;">Building type-safe libraries and crafting delightful developer experiences</span>
-</p>
+**Now**
 
-<br />
+- **Tech Lead at [Agorastore](https://www.agorastore.fr)**, online auctions for public bodies and companies. I lead the platform behind our 4 Nuxt apps and 35 Node.js services: the front-end foundations they share (typed API SDK, query layer, entity and form engines), one monorepo for the whole platform, and a dev environment where AI agents get scoped access, never production. I also mentor an apprentice.
+- **Sole engineer at [ExAssess](https://www.exassess.com)**, the platform that runs VTest language certifications in France: 60,000+ exams so far. In 2026 I rebuilt it end to end, from the screens training organisations and test centres use every day to the vendor integrations behind them, and took it live in 7 weeks.
 
-**About me**
+**Before:** Lead Software Engineer at Burlington VTest (online English exams), leading developers across 6 countries.
 
-- 💼 Full-Stack TypeScript Engineer
+**Open source**
 
-- 🖖 Vue.js and Nuxt.js fanboy, building scalable and performant web applications
+Most of them run in production at Agorastore or ExAssess.
 
-- 🛠️ Creator of type-safe libraries focused on developer experience
+| Project | What it does |
+|---|---|
+| [typed-xlsx](https://github.com/ChronicStone/typed-xlsx) | Type-safe Excel reports: typed schemas, real formulas, native Excel tables, streaming exports. ~11k npm downloads a month, counting its former package name. |
+| [drizzle-resource](https://github.com/ChronicStone/drizzle-resource) | One typed contract for filtering, sorting, search, pagination and facets on Drizzle and PostgreSQL. |
+| [nuxt-ui-tools](https://github.com/ChronicStone/nuxt-ui-tools) | Data tables, forms, URL query state and spreadsheet import for Nuxt UI apps. |
+| [vue-route-query](https://github.com/ChronicStone/vue-route-query) | Type-safe URL query state for Vue 3, validated with Zod. |
+| [array-ql](https://github.com/ChronicStone/array-ql) | Type-safe pagination, sorting, search and filtering for in-memory data. |
 
-- 🔒 Obsessed with type safety and writing clean, maintainable code
+TypeScript · Vue & Nuxt · Node.js · AdonisJS · PostgreSQL & Drizzle · Bun · OpenTelemetry
 
-- 💬 Ask me about anything [here](https://github.com/ChronicStone/ChronicStone/issues)
+[LinkedIn](https://www.linkedin.com/in/cyprien-thao-4b4a92166/)
 
-<br/>
+<details>
+<summary><b>Version française</b></summary>
+<br>
 
+**Product engineer, full-stack TypeScript.** J'aime prendre un problème en main de bout en bout : comprendre ce dont les utilisateurs ont besoin, concevoir l'écran, modéliser les données, brancher les intégrations derrière, et faire tourner le tout en production.
 
+**Aujourd'hui**
 
-[![ChronicStone's stats](https://github-readme-stats-one-bice.vercel.app/api?username=ChronicStone&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue-dark)](https://github.com/ChronicStone/)
+- **Tech Lead chez [Agorastore](https://www.agorastore.fr)**, enchères en ligne pour le secteur public et les entreprises. Je pilote la plateforme derrière nos 4 apps Nuxt et nos 35 services Node.js : les fondations front qu'elles partagent (SDK d'API typé, couche de requêtes, moteurs d'entités et de formulaires), un monorepo unique pour toute la plateforme, et un environnement de dev où les agents IA ont un accès encadré, jamais à la prod. J'encadre aussi un alternant.
+- **Seul ingénieur d'[ExAssess](https://www.exassess.com)**, la plateforme sur laquelle se passent les certifications en langues VTest en France : plus de 60 000 examens à ce jour. En 2026, je l'ai refaite de bout en bout, des écrans qu'utilisent chaque jour les organismes de formation et les centres d'examen jusqu'aux intégrations avec les fournisseurs, et mise en production en 7 semaines.
 
-<br/>
+**Avant :** Lead Software Engineer chez Burlington VTest (examens d'anglais en ligne), à la tête de développeurs dans 6 pays.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,vite,postgresql,nestjs,adonis,mongodb,tailwind)](https://skillicons.dev)
+**Open source**
 
+La plupart tournent en production chez Agorastore ou ExAssess.
 
-#### Top Repositories
+| Projet | Ce qu'il fait |
+|---|---|
+| [typed-xlsx](https://github.com/ChronicStone/typed-xlsx) | Rapports Excel typés : schémas typés, vraies formules, tableaux Excel natifs, exports en streaming. ~11 000 téléchargements npm par mois, en comptant son ancien nom de paquet. |
+| [drizzle-resource](https://github.com/ChronicStone/drizzle-resource) | Un seul contrat typé pour filtrer, trier, chercher, paginer et calculer des facettes avec Drizzle et PostgreSQL. |
+| [nuxt-ui-tools](https://github.com/ChronicStone/nuxt-ui-tools) | Tableaux de données, formulaires, état dans l'URL et import de tableurs pour les apps Nuxt UI. |
+| [vue-route-query](https://github.com/ChronicStone/vue-route-query) | État typé dans l'URL pour Vue 3, validé avec Zod. |
+| [array-ql](https://github.com/ChronicStone/array-ql) | Pagination, tri, recherche et filtres typés sur des données en mémoire. |
 
-<a href="https://github.com/ChronicStone/typed-xlsx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=typed-xlsx&theme=buefy" />
-</a>
-<a href="https://github.com/ChronicStone/array-ql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicStone&repo=array-ql&theme=buefy" />
-</a>
-
+</details>
